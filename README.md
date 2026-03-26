@@ -95,6 +95,9 @@ If you find our work useful in your research, please cite:
   author={Tang, Yizhe and Wang, Yue and Hu, Teng and Yi, Ran and Tan, Xin and Ma, Lizhuang and Lai, Yu-Kun and Rosin, Paul L},
   journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2025},
+  volume={31},
+  number={12},
+  pages={10897-10911},
   publisher={IEEE}
 }
 ```
